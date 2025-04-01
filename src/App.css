@@ -1,0 +1,4 @@
+@plugin "daisyui";
+@plugin "daisyui" {
+  themes: all , light --default, dark --prefersdark,cupcake;
+}
